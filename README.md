@@ -4,7 +4,7 @@
 ### My Expertise
 
 <p align="left">
-  <img src="https://githubusercontent.com" alt="html5" width="40" height="40"/>&nbsp;
+  <img src="[https://githubusercontent.com](https://www.magnific.com/icon/html-5_5968267#fromView=keyword&page=1&position=0)" alt="html5" width="40" height="40"/>&nbsp;
   <img src="https://githubusercontent.com" alt="css3" width="40" height="40"/>&nbsp;
   <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/>&nbsp;
   <img src="https://githubusercontent.com" alt="git" width="40" height="40"/>&nbsp;
