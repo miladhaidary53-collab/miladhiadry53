@@ -1,19 +1,16 @@
 <h1 align='center'>Milad Haidary</h1>
 <img src='4.jpeg' alt='no img'/>
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
 
-### My Social Network
+* **HTML5:** 🌐 HTML
+* **CSS3:** 🎨 CSS
+* **JavaScript:** ⚡ JavaScript
+* **Git & GitHub:** 🐙 GitHub
+* **React:** ⚛️ React
+* **Bootstrap:** 🥾 Bootstrap
 
-<p align="left">
-  <a href="https://instagram.com" target="_blank"><img src="https://shields.io" /></a>
-  <a href="https://t.me" target="_blank"><img src="https://shields.io" /></a>
-  <a href="https://youtube.com" target="_blank"><img src="https://shields.io" /></a>
-</p>
+### 📱 My Social Network
+
+* 📸 [Instagram](https://instagram.com)
+* ✈️ [Telegram](https://t.me)
+* 🎥 [YouTube](https://youtube.com)
+*
