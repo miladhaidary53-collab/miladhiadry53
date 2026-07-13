@@ -33,6 +33,6 @@
 - **Tools:** Git, GitHub, VS Code
 
 ### 📬 Connect with Me
-- 📧 **Email:** [your.email@example.com]
-- 💼 **LinkedIn:** [Your LinkedIn Profile]
+- 📧 **Email:** [miladhiadry53@gmail.com]
+- 💼 **LinkedIn:** [kabul]
 -
