@@ -12,13 +12,6 @@
   <img src="beta.png" alt="bootstrap" width="40" height="40"/>
 </p>
 
-### My Social Network
-
-<p align="left">
-  <a href="https://instagram.com" target="_blank"><img src="https://squarespace-cdn.com" width="40" height="40" /></a>&nbsp;
-  <a href="https://t.me" target="_blank"><img src="https://wikimedia.org" width="40" height="40" /></a>&nbsp;
-  <a href="https://youtube.com" target="_blank"><img src="https://wikimedia.org" width="40" height="40" /></a>
-</p>
 # 👋 Hi, I'm a Full-Stack Developer!
 
 ### 🚀 About Me
