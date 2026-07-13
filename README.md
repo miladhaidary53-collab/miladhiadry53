@@ -5,11 +5,11 @@
 
 <p align="left">
   <img src="html5 (2).png" alt="html5" width="40" height="40"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="css3" width="40" height="40"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="react" width="40" height="40"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="bootstrap" width="40" height="40"/>
+  <img src="css3 (2).png" alt="css3" width="40" height="40"/>&nbsp;
+  <img src="js.png" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="git.png" alt="git" width="40" height="40"/>&nbsp;
+  <img src="atom.png" alt="react" width="40" height="40"/>&nbsp;
+  <img src="beta.png" alt="bootstrap" width="40" height="40"/>
 </p>
 
 ### My Social Network
