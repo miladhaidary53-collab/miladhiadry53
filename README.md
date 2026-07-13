@@ -21,10 +21,6 @@
 </p>
 # 👋 Hi, I'm a Full-Stack Developer!
 
-<p align="left">
-  <img src="https://komarev.com" alt="views" />
-</p>
-
 ### 🚀 About Me
 - 💻 **Passion:** Building clean, scalable, and modern full-stack web applications.
 - 🎓 **Education:** Continually learning advanced architecture and cloud technologies.
