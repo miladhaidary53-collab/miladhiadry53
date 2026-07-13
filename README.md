@@ -1,16 +1,21 @@
 <h1 align='center'>Milad Haidary</h1>
 <img src='4.jpeg' alt='no img'/>
 
-* **HTML5:** 🌐 HTML
-* **CSS3:** 🎨 CSS
-* **JavaScript:** ⚡ JavaScript
-* **Git & GitHub:** 🐙 GitHub
-* **React:** ⚛️ React
-* **Bootstrap:** 🥾 Bootstrap
+### My Expertise
 
-### 📱 My Social Network
+<p align="left">
+  <img src="https://githubusercontent.com" alt="html5" width="40" height="40"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="css3" width="40" height="40"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="react" width="40" height="40"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="bootstrap" width="40" height="40"/>
+</p>
 
-* 📸 [Instagram](https://instagram.com)
-* ✈️ [Telegram](https://t.me)
-* 🎥 [YouTube](https://youtube.com)
-*
+### My Social Network
+
+<p align="left">
+  <a href="https://instagram.com" target="_blank"><img src="https://squarespace-cdn.com" width="40" height="40" /></a>&nbsp;
+  <a href="https://t.me" target="_blank"><img src="https://wikimedia.org" width="40" height="40" /></a>&nbsp;
+  <a href="https://youtube.com" target="_blank"><img src="https://wikimedia.org" width="40" height="40" /></a>
+</p>
