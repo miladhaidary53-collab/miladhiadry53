@@ -4,7 +4,7 @@
 ### My Expertise
 
 <p align="left">
-  <img src="html5.png" alt="html5" width="40" height="40"/>&nbsp;
+  <img src="html5 (2).png" alt="html5" width="40" height="40"/>&nbsp;
   <img src="https://githubusercontent.com" alt="css3" width="40" height="40"/>&nbsp;
   <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/>&nbsp;
   <img src="https://githubusercontent.com" alt="git" width="40" height="40"/>&nbsp;
